@@ -36,17 +36,18 @@ http://localhost:8000
 
 ## 🖼 Capturas de pantalla
 ### 🌟 Pantalla principal
-![Pantalla Principal]([https://via.placeholder.com/800x400.png?text=Sube+tus+im%C3%A1genes+y+optimiza](https://imgur.com/hLqc58D))
+## 🌟 Pantalla principal  
+![Pantalla Principal](https://raw.githubusercontent.com/nicomrna/optimizador-de-imagenes/main/test/1.png)
 
 ### 📉 Imágenes optimizadas con sus pesos
-![Imágenes Optimizadas](https://via.placeholder.com/800x400.png?text=Comparaci%C3%B3n+de+pesos)
+![Imágenes Optimizadas](https://raw.githubusercontent.com/nicomrna/optimizador-de-imagenes/main/test/2.png)
 
 ## 📜 Licencia
-Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y compartirlo libremente.
+Este proyecto está bajo la licencia GPL-3.0. Puedes usarlo, modificarlo y compartirlo libremente.
 
 ## 🤝 Contribuciones
 Si quieres mejorar este proyecto, siéntete libre de hacer un **fork**, crear un **branch** y enviarnos un **pull request**. 🙌
 
 ## 📬 Contacto
-Si tienes dudas o sugerencias, contáctame en [tuemail@example.com](mailto:tuemail@example.com).
+Si tienes dudas o sugerencias, contáctame en [nico2820101@gmail.com](mailto:nico2820101@gmail.com).
 
