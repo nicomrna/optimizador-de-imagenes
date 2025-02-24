@@ -1,7 +1,5 @@
 # Optimizador de Imágenes
 
-![Optimizador de Imágenes](https://via.placeholder.com/800x400.png?text=Optimizador+de+Im%C3%A1genes)
-
 Este es un **optimizador de imágenes** desarrollado en PHP, que permite reducir el tamaño de archivos JPEG, PNG y WEBP sin perder calidad. Además, permite procesar **múltiples imágenes a la vez** y descargar todas en un archivo **ZIP**.
 
 ## 🚀 Características
@@ -38,7 +36,7 @@ http://localhost:8000
 
 ## 🖼 Capturas de pantalla
 ### 🌟 Pantalla principal
-![Pantalla Principal](https://via.placeholder.com/800x400.png?text=Sube+tus+im%C3%A1genes+y+optimiza)
+![Pantalla Principal]([https://via.placeholder.com/800x400.png?text=Sube+tus+im%C3%A1genes+y+optimiza](https://imgur.com/hLqc58D))
 
 ### 📉 Imágenes optimizadas con sus pesos
 ![Imágenes Optimizadas](https://via.placeholder.com/800x400.png?text=Comparaci%C3%B3n+de+pesos)
